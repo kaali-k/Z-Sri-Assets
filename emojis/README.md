@@ -1,0 +1,1 @@
+Emoji font files for Z Sri keyboard.
